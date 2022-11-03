@@ -7,14 +7,13 @@
 
 ## Tecnologías:
 
-Las tecnologías que se especifican a continuación son tecnologías con las que trabajo a diario en mi centro de estudios. Ademas en mi tiempo libre intento aprender Kotlin.
+Las tecnologías que se especifican a continuación son tecnologías con las que trabajo a diario en mi centro de estudios.
 <div id=techBadges>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="45px"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="56px"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="70px"/>
  	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="70px"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="62px"/>
-  <img src=https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white width="74px"/>
   <img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black width="68px"/>
 </div>
 
