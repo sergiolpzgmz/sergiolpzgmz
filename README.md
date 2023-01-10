@@ -34,6 +34,10 @@ Las tecnologías que se especifican a continuación son tecnologías con las que
 ## Mis estadísticas
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiolpzgmz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiolpzgmz)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiolpzgmz&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiolpzgmz&hide=contribs,prs)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiolpzgmz&count_private=true)
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiolpzgmz&show_icons=true)
